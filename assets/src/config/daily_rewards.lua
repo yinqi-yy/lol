@@ -1,0 +1,28 @@
+local daily_rewards={
+[1] = {ID=1,stage=1,integration=30,reid=190003,parse=1,count=0,parameters1=1330,parameters2=825},
+[2] = {ID=2,stage=1,integration=30,reid=190004,parse=1,count=0,parameters1=1330,parameters2=825},
+[3] = {ID=3,stage=1,integration=30,reid=190005,parse=1,count=0,parameters1=150,parameters2=90},
+[4] = {ID=4,stage=1,integration=30,reid=190006,parse=1,count=0,parameters1=30,parameters2=18},
+[5] = {ID=5,stage=2,integration=70,reid=190008,parse=1,count=0,parameters1=-80,parameters2=150},
+[6] = {ID=6,stage=3,integration=120,reid=190003,parse=1,count=0,parameters1=2790,parameters2=1730},
+[7] = {ID=7,stage=3,integration=120,reid=190004,parse=1,count=0,parameters1=2790,parameters2=1730},
+[8] = {ID=8,stage=3,integration=120,reid=190005,parse=1,count=0,parameters1=310,parameters2=190},
+[9] = {ID=9,stage=3,integration=120,reid=190006,parse=1,count=0,parameters1=62,parameters2=38},
+[10] = {ID=10,stage=3,integration=120,reid=190007,parse=1,count=0,parameters1=110,parameters2=111},
+[11] = {ID=11,stage=4,integration=180,reid=190008,parse=1,count=0,parameters1=-130,parameters2=240},
+[12] = {ID=12,stage=5,integration=260,reid=190003,parse=1,count=0,parameters1=4240,parameters2=2630},
+[13] = {ID=13,stage=5,integration=260,reid=190004,parse=1,count=0,parameters1=4240,parameters2=2630},
+[14] = {ID=14,stage=5,integration=260,reid=190005,parse=1,count=0,parameters1=470,parameters2=292},
+[15] = {ID=15,stage=5,integration=260,reid=190006,parse=1,count=0,parameters1=94,parameters2=58},
+[16] = {ID=16,stage=5,integration=260,reid=200201,parse=1,count=0,parameters1=1,parameters2=.15},
+[17] = {ID=17,stage=6,integration=340,reid=190007,parse=1,count=0,parameters1=150,parameters2=50},
+[18] = {ID=18,stage=6,integration=340,reid=190008,parse=1,count=0,parameters1=-175,parameters2=325},
+[19] = {ID=19,stage=7,integration=420,reid=190003,parse=1,count=0,parameters1=5680,parameters2=3525},
+[20] = {ID=20,stage=7,integration=420,reid=190004,parse=1,count=0,parameters1=5680,parameters2=3525},
+[21] = {ID=21,stage=7,integration=420,reid=190005,parse=1,count=0,parameters1=735,parameters2=455},
+[22] = {ID=22,stage=7,integration=420,reid=190006,parse=1,count=0,parameters1=147,parameters2=91},
+[23] = {ID=23,stage=7,integration=420,reid=200600,parse=1,count=0,parameters1=1,parameters2=.1},
+[24] = {ID=24,stage=8,integration=500,reid=190008,parse=1,count=0,parameters1=-220,parameters2=415},
+[25] = {ID=25,stage=8,integration=500,reid=200601,parse=0,count=1,parameters1=0,parameters2=0}
+}
+return daily_rewards

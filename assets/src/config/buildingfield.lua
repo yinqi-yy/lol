@@ -1,0 +1,27 @@
+local buildingfield={
+[1] = {buildingID=1,name=100000,detname="",textcn=100050,detailsui="",infui="power",infuides=101024,oth=""},
+[2] = {buildingID=2,name=100001,detname=101022,textcn="120003|120002|120004|120005",detailsui="swood|sfood|siron|ssilver",infui="swood|sfood|siron|ssilver|power",infuides="101025|101026|101027|101028|101024",oth=""},
+[3] = {buildingID=3,name=100002,detname="",textcn="101000|101001",detailsui="trap|de",infui="trap|de|power",infuides="101000|101001|101024",oth=""},
+[4] = {buildingID=4,name=100003,detname="",textcn=100103,detailsui="",infui="power",infuides="101024|101033",oth="1,101050|2,101051|3,101052|4,101053|5,101054|6,101055|7,101056|8,101057|9,101058|10,101059|11,101060|12,101061|13,101062|14,101063|16,101064|18,101065|20,101066|22,101067|24,101068|26,101069|28,101070|29,101071|30,101072"},
+[5] = {buildingID=5,name=100004,detname="",textcn=101002,detailsui="output",infui="output|power",infuides="101029|101024",oth=""},
+[6] = {buildingID=6,name=100005,detname="",textcn=101002,detailsui="output",infui="output|power",infuides="101029|101024",oth=""},
+[7] = {buildingID=7,name=100006,detname="",textcn=101002,detailsui="output",infui="output|power",infuides="101029|101024",oth=""},
+[8] = {buildingID=8,name=100007,detname="",textcn=101002,detailsui="output",infui="output|power",infuides="101029|101024",oth=""},
+[9] = {buildingID=9,name=100008,detname="",textcn=100108,detailsui="",infui="power",infuides=101024,oth=""},
+[10] = {buildingID=10,name=100009,detname="",textcn="101004|101005|101006",detailsui="help|cut|man",infui="help|cut|man|power",infuides="101004|101005|101006|101024",oth=""},
+[11] = {buildingID=11,name=100010,detname="",textcn="120003|120002|120004|120005|101007",detailsui="rwood|rfood|riron|rsilver|free",infui="rwood|rfood|riron|rsilver|free|power",infuides="101025|101026|101027|101028|101030|101024",oth=""},
+[12] = {buildingID=12,name=100011,detname="",textcn="101008|101009",detailsui="bear|tax",infui="bear|tax|power",infuides="101008|101009|101024",oth=""},
+[13] = {buildingID=13,name=100012,detname="",textcn=101010,detailsui="rman",infui="rman|power",infuides="101031|101024",oth=""},
+[14] = {buildingID=14,name=100013,detname="",textcn=101010,detailsui="rman",infui="rman|power",infuides="101031|101024",oth=""},
+[15] = {buildingID=15,name=100014,detname="",textcn=101010,detailsui="rman",infui="rman|power",infuides="101031|101024",oth=""},
+[16] = {buildingID=16,name=100015,detname="",textcn=101010,detailsui="rman",infui="rman|power",infuides="101031|101024",oth=""},
+[17] = {buildingID=17,name=100016,detname="",textcn="101011|101012|101032",detailsui="strain|soldiers",infui="strain|soldiers|power",infuides="101011|101012|101024",oth=""},
+[18] = {buildingID=18,name=100017,detname="",textcn="101013|101034|101014|101015",detailsui="atkwoundrate|atkwoundAllrate|wound",infui="atkwoundrate|wound|power",infuides="101013|101014|101024",oth=""},
+[19] = {buildingID=19,name=100018,detname="",textcn=101016,detailsui="set",infui="set|power",infuides="101016|101024",oth=""},
+[20] = {buildingID=20,name=100019,detname="",textcn=101010,detailsui="rman",infui="rman|power",infuides="101031|101024",oth=""},
+[21] = {buildingID=21,name=100020,detname="",textcn=101017,detailsui="army",infui="army|power",infuides="101017|101024",oth=""},
+[22] = {buildingID=22,name=100021,detname="",textcn="101018|101019",detailsui="dps|dpm",infui="dps|dpm|power",infuides="101018|101019|101024",oth=""},
+[23] = {buildingID=23,name=100022,detname="",textcn="101020|101021",detailsui="create|csteel",infui="create|csteel|power",infuides="101020|101021|101024",oth=""},
+[24] = {buildingID=24,name=100023,detname=101023,textcn="120003|120002|120004|120005",detailsui="pwood|pfood|piron|psilver",infui="pwood|pfood|piron|psilver|power",infuides="101025|101026|101027|101028|101024",oth=""}
+}
+return buildingfield

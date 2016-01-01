@@ -1,0 +1,26 @@
+local language={
+[1] = {id=1,language="英语",language=150001,language_txt="English",language_icon="GbUs.png",translation=1,filename="text_zh_EN_data"},
+[2] = {id=2,language="法语",language=150002,language_txt="français",language_icon="FR.png",translation=5,filename=""},
+[3] = {id=3,language="德语",language=150003,language_txt="Deutsch",language_icon="DE.png",translation=7,filename=""},
+[4] = {id=4,language="俄语",language=150004,language_txt="русский",language_icon="RU.png",translation=8,filename=""},
+[5] = {id=5,language="韩语",language=150005,language_txt="한국어",language_icon="KR.png",translation=9,filename=""},
+[6] = {id=6,language="泰语",language=150006,language_txt="ไทย",language_icon="TH.png",translation=18,filename=""},
+[7] = {id=7,language="日本语",language=150007,language_txt="日本語",language_icon="JP.png",translation=14,filename=""},
+[8] = {id=8,language="葡萄牙语",language=150008,language_txt="português",language_icon="BrPr.png",translation=6,filename=""},
+[9] = {id=9,language="西班牙语",language=150009,language_txt="El español",language_icon="ES.png",translation=4,filename=""},
+[10] = {id=10,language="土耳其语",language=150010,language_txt="Türk",language_icon="TR.png",translation=19,filename=""},
+[11] = {id=11,language="印度尼西亚语",language=150011,language_txt="Indonesia",language_icon="ID.png",translation=0,filename=""},
+[12] = {id=12,language="繁体中文",language=150012,language_txt="繁体中文",language_icon="CN.png",translation=3,filename=""},
+[13] = {id=13,language="简体中文",language=150013,language_txt="简体中文",language_icon="CN.png",translation=2,filename="text_zh_CN_data"},
+[14] = {id=14,language="意大利语",language=150014,language_txt="italiano",language_icon="IT.png",translation=10,filename=""},
+[15] = {id=15,language="波兰语",language=150015,language_txt="polski",language_icon="PL.png",translation=16,filename=""},
+[16] = {id=16,language="荷兰语",language=150016,language_txt="Nederlands",language_icon="LU.png",translation=15,filename=""},
+[17] = {id=17,language="阿拉伯语",language=150017,language_txt="العربية",language_icon="AE.png",translation=0,filename=""},
+[18] = {id=18,language="丹麦语",language=150018,language_txt="",language_icon="",translation=11,filename=""},
+[19] = {id=19,language="希腊语",language=150019,language_txt="",language_icon="",translation=12,filename=""},
+[20] = {id=20,language="芬兰语",language=150020,language_txt="",language_icon="",translation=13,filename=""},
+[21] = {id=21,language="瑞典语",language=150021,language_txt="",language_icon="",translation=17,filename=""},
+[22] = {id=22,language="越南语",language=150022,language_txt="",language_icon="",translation=20,filename=""},
+[23] = {id=23,language="马来语",language=150023,language_txt="",language_icon="",translation=21,filename=""}
+}
+return language

@@ -1,0 +1,19 @@
+{
+    "init_cfg":{
+       "isLandscape": true,
+       "isWindowTop": false,
+       "name": "lol",
+       "width": 1334,
+       "height": 750,
+       "entry": "src/main.lua",
+       "consolePort": 6050,
+       "uploadPort": 6060
+    },
+    "simulator_screen_size": [
+        {
+            "title": "iPhone 3Gs (480x320)",
+            "width": 480,
+            "height": 320
+        },
+    ]
+}

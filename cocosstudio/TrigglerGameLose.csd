@@ -1,0 +1,359 @@
+<GameFile>
+  <PropertyGroup Name="TrigglerGameLose" Type="Layer" ID="972d2d47-baea-402d-b938-61954dd75b23" Version="2.3.3.0" />
+  <Content ctype="GameProjectContent">
+    <Content>
+      <Animation Duration="0" Speed="1.0000" />
+      <ObjectData Name="Layer" Tag="688" ctype="GameLayerObjectData">
+        <Size X="1334.0000" Y="750.0000" />
+        <Children>
+          <AbstractNodeData Name="Image_1" ActionTag="1133556510" Tag="689" IconVisible="False" LeftMargin="4.3810" RightMargin="-4.3810" TopMargin="-0.0895" BottomMargin="0.0895" Scale9Width="1334" Scale9Height="750" ctype="ImageViewObjectData">
+            <Size X="1334.0000" Y="750.0000" />
+            <Children>
+              <AbstractNodeData Name="Image_2" ActionTag="-1839669172" Tag="690" IconVisible="False" LeftMargin="605.2937" RightMargin="601.7063" TopMargin="29.8652" BottomMargin="614.1348" Scale9Width="127" Scale9Height="106" ctype="ImageViewObjectData">
+                <Size X="127.0000" Y="106.0000" />
+                <AnchorPoint ScaleX="0.5203" ScaleY="0.4207" />
+                <Position X="671.3718" Y="658.7290" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5033" Y="0.8783" />
+                <PreSize X="0.0952" Y="0.1413" />
+                <FileData Type="Normal" Path="xiaomali/ml1_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_3" ActionTag="1815212332" Tag="691" IconVisible="False" LeftMargin="450.6336" RightMargin="759.3664" TopMargin="46.2830" BottomMargin="623.7170" Scale9Width="124" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="124.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="512.6336" Y="663.7170" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.3843" Y="0.8850" />
+                <PreSize X="0.0930" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml2_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_4" ActionTag="1890207212" Tag="692" IconVisible="False" LeftMargin="295.4137" RightMargin="914.5863" TopMargin="45.9871" BottomMargin="624.0129" Scale9Width="124" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="124.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="357.4137" Y="664.0129" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2679" Y="0.8854" />
+                <PreSize X="0.0930" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml3_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_5" ActionTag="650692484" Tag="693" IconVisible="False" LeftMargin="154.8271" RightMargin="1086.1729" TopMargin="75.3781" BottomMargin="648.6219" Scale9Width="93" Scale9Height="26" ctype="ImageViewObjectData">
+                <Size X="93.0000" Y="26.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="201.3271" Y="661.6219" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.1509" Y="0.8822" />
+                <PreSize X="0.0697" Y="0.0347" />
+                <FileData Type="Normal" Path="xiaomali/ml9.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_7" ActionTag="853380709" Tag="694" IconVisible="False" LeftMargin="132.6375" RightMargin="1068.3625" TopMargin="241.0481" BottomMargin="428.9519" Scale9Width="133" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="133.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="199.1375" Y="468.9519" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.1493" Y="0.6253" />
+                <PreSize X="0.0997" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml5_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_8" ActionTag="-2137458547" Tag="695" IconVisible="False" LeftMargin="135.0464" RightMargin="1072.9536" TopMargin="337.3847" BottomMargin="332.6153" Scale9Width="126" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="126.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5256" ScaleY="0.4826" />
+                <Position X="201.2720" Y="371.2233" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.1509" Y="0.4950" />
+                <PreSize X="0.0945" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml6_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_9" ActionTag="-1388181353" Tag="696" IconVisible="False" LeftMargin="455.3776" RightMargin="752.6224" TopMargin="626.1697" BottomMargin="43.8303" Scale9Width="126" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="126.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="518.3776" Y="83.8303" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.3886" Y="0.1118" />
+                <PreSize X="0.0945" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml6_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_6" ActionTag="2111350303" Tag="697" IconVisible="False" LeftMargin="130.7388" RightMargin="1078.5563" TopMargin="145.7328" BottomMargin="524.2672" Scale9Width="105" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="124.7049" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="193.0913" Y="564.2672" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.1447" Y="0.7524" />
+                <PreSize X="0.0935" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml4_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_11" ActionTag="1282527593" Tag="698" IconVisible="False" LeftMargin="134.1150" RightMargin="1068.8850" TopMargin="433.8824" BottomMargin="236.1176" Scale9Width="131" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="131.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="199.6150" Y="276.1176" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.1496" Y="0.3682" />
+                <PreSize X="0.0982" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml7_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_12" ActionTag="-1489977893" Tag="699" IconVisible="False" LeftMargin="133.6949" RightMargin="1070.3052" TopMargin="532.3615" BottomMargin="137.6385" Scale9Width="130" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="130.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="198.6949" Y="177.6385" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.1489" Y="0.2369" />
+                <PreSize X="0.0975" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml8_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_13" ActionTag="2060558216" Tag="700" IconVisible="False" LeftMargin="601.7703" RightMargin="599.2297" TopMargin="628.3294" BottomMargin="41.6706" Scale9Width="133" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="133.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="668.2703" Y="81.6706" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5010" Y="0.1089" />
+                <PreSize X="0.0997" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml5_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_14" ActionTag="-1908175874" Tag="701" IconVisible="False" LeftMargin="293.4428" RightMargin="916.5572" TopMargin="628.1202" BottomMargin="41.8798" Scale9Width="124" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="124.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="355.4428" Y="81.8798" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.2664" Y="0.1092" />
+                <PreSize X="0.0930" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml3_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_15" ActionTag="-1914489307" Tag="702" IconVisible="False" LeftMargin="1079.6708" RightMargin="128.3292" TopMargin="440.4767" BottomMargin="229.5233" Scale9Width="126" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="126.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1142.6708" Y="269.5233" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8566" Y="0.3594" />
+                <PreSize X="0.0945" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml6_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_16" ActionTag="-1824279527" Tag="703" IconVisible="False" LeftMargin="150.5297" RightMargin="1090.4703" TopMargin="650.0739" BottomMargin="73.9261" Scale9Width="93" Scale9Height="26" ctype="ImageViewObjectData">
+                <Size X="93.0000" Y="26.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="197.0297" Y="86.9261" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.1477" Y="0.1159" />
+                <PreSize X="0.0697" Y="0.0347" />
+                <FileData Type="Normal" Path="xiaomali/ml9_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_17" ActionTag="2022324896" Tag="704" IconVisible="False" LeftMargin="1078.0402" RightMargin="131.9598" TopMargin="149.0465" BottomMargin="520.9535" Scale9Width="124" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="124.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1140.0402" Y="560.9535" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8546" Y="0.7479" />
+                <PreSize X="0.0930" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml2_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_18" ActionTag="389763295" Tag="705" IconVisible="False" LeftMargin="917.5468" RightMargin="285.4531" TopMargin="627.9109" BottomMargin="42.0891" Scale9Width="131" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="131.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="983.0468" Y="82.0891" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.7369" Y="0.1095" />
+                <PreSize X="0.0982" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml7_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_19" ActionTag="-179710707" Tag="706" IconVisible="False" LeftMargin="1074.4481" RightMargin="130.3671" TopMargin="534.7979" BottomMargin="135.2021" Scale9Width="105" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="129.1848" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1139.0405" Y="175.2021" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8539" Y="0.2336" />
+                <PreSize X="0.0968" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml4_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_20" ActionTag="-1954679252" Tag="707" IconVisible="False" LeftMargin="1098.5854" RightMargin="142.4146" TopMargin="659.7480" BottomMargin="64.2520" Scale9Width="93" Scale9Height="26" ctype="ImageViewObjectData">
+                <Size X="93.0000" Y="26.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1145.0854" Y="77.2520" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8584" Y="0.1030" />
+                <PreSize X="0.0697" Y="0.0347" />
+                <FileData Type="Normal" Path="xiaomali/ml9_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_21" ActionTag="30391059" Tag="708" IconVisible="False" LeftMargin="1069.9105" RightMargin="133.0895" TopMargin="338.8991" BottomMargin="331.1009" Scale9Width="131" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="131.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1135.4105" Y="371.1009" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8511" Y="0.4948" />
+                <PreSize X="0.0982" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml7_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_22" ActionTag="-637546187" Tag="709" IconVisible="False" LeftMargin="1096.1672" RightMargin="144.8328" TopMargin="70.8416" BottomMargin="653.1584" Scale9Width="93" Scale9Height="26" ctype="ImageViewObjectData">
+                <Size X="93.0000" Y="26.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1142.6672" Y="666.1584" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8566" Y="0.8882" />
+                <PreSize X="0.0697" Y="0.0347" />
+                <FileData Type="Normal" Path="xiaomali/ml9_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_23" ActionTag="-847059894" Tag="710" IconVisible="False" LeftMargin="761.6349" RightMargin="446.3651" TopMargin="45.0507" BottomMargin="624.9493" Scale9Width="126" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="126.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="824.6349" Y="664.9493" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6182" Y="0.8866" />
+                <PreSize X="0.0945" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml6_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_24" ActionTag="-824571369" Tag="711" IconVisible="False" LeftMargin="915.7574" RightMargin="285.2427" TopMargin="47.4689" BottomMargin="622.5311" Scale9Width="133" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="133.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="982.2574" Y="662.5311" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.7363" Y="0.8834" />
+                <PreSize X="0.0997" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml5_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_25" ActionTag="530514033" Tag="712" IconVisible="False" LeftMargin="1076.4120" RightMargin="133.5880" TopMargin="245.9956" BottomMargin="424.0044" Scale9Width="124" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="124.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1138.4120" Y="464.0044" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.8534" Y="0.6187" />
+                <PreSize X="0.0930" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml3_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Image_26" ActionTag="2068392639" Tag="713" IconVisible="False" LeftMargin="763.6338" RightMargin="446.3662" TopMargin="629.3293" BottomMargin="40.6707" Scale9Width="124" Scale9Height="80" ctype="ImageViewObjectData">
+                <Size X="124.0000" Y="80.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="825.6338" Y="80.6707" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.6189" Y="0.1076" />
+                <PreSize X="0.0930" Y="0.1067" />
+                <FileData Type="Normal" Path="xiaomali/ml3_an.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="AtlasLabel_1" ActionTag="1292892850" Tag="714" IconVisible="False" LeftMargin="668.5410" RightMargin="595.4590" TopMargin="331.4163" BottomMargin="400.5837" CharWidth="14" CharHeight="18" LabelText="00000" StartChar="." ctype="TextAtlasObjectData">
+                <Size X="70.0000" Y="18.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="703.5410" Y="409.5837" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5274" Y="0.5461" />
+                <PreSize X="0.0525" Y="0.0240" />
+                <LabelAtlasFileImage_CNB Type="Default" Path="Default/TextAtlas.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="AtlasLabel_2" ActionTag="-342403263" Tag="715" RotationSkewX="1.0632" RotationSkewY="1.0632" IconVisible="False" LeftMargin="425.5334" RightMargin="824.4666" TopMargin="573.9636" BottomMargin="158.0364" CharWidth="14" CharHeight="18" LabelText="000000" StartChar="." ctype="TextAtlasObjectData">
+                <Size X="84.0000" Y="18.0000" />
+                <AnchorPoint ScaleX="0.5051" ScaleY="0.4053" />
+                <Position X="467.9618" Y="165.3318" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.3508" Y="0.2204" />
+                <PreSize X="0.0630" Y="0.0240" />
+                <LabelAtlasFileImage_CNB Type="Default" Path="Default/TextAtlas.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="AtlasLabel_3" ActionTag="1103861636" Tag="716" IconVisible="False" LeftMargin="699.6102" RightMargin="550.3898" TopMargin="573.1111" BottomMargin="158.8889" CharWidth="14" CharHeight="18" LabelText="000000" StartChar="." ctype="TextAtlasObjectData">
+                <Size X="84.0000" Y="18.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="741.6102" Y="167.8889" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5559" Y="0.2239" />
+                <PreSize X="0.0630" Y="0.0240" />
+                <LabelAtlasFileImage_CNB Type="Default" Path="Default/TextAtlas.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="AtlasLabel_4" ActionTag="-2007517332" Tag="717" IconVisible="False" LeftMargin="936.7622" RightMargin="327.2378" TopMargin="573.5631" BottomMargin="158.4369" CharWidth="14" CharHeight="18" LabelText="10000" StartChar="." ctype="TextAtlasObjectData">
+                <Size X="70.0000" Y="18.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="971.7622" Y="167.4369" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.7285" Y="0.2232" />
+                <PreSize X="0.0525" Y="0.0240" />
+                <LabelAtlasFileImage_CNB Type="Default" Path="Default/TextAtlas.png" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Button_1" ActionTag="-60428523" Tag="718" IconVisible="False" LeftMargin="1276.3573" RightMargin="40.6427" TopMargin="18.8901" BottomMargin="717.1099" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="5" RightEage="5" TopEage="4" BottomEage="4" Scale9OriginX="5" Scale9OriginY="4" Scale9Width="7" Scale9Height="6" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="17.0000" Y="14.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="1284.8573" Y="724.1099" />
+                <Scale ScaleX="2.5000" ScaleY="2.5000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.9632" Y="0.9655" />
+                <PreSize X="0.0127" Y="0.0187" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+                <PressedFileData Type="Default" Path="Default/Button_Press.png" Plist="" />
+                <NormalFileData Type="Normal" Path="image200.png" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="671.3810" Y="375.0895" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.5033" Y="0.5001" />
+            <PreSize X="1.0000" Y="1.0000" />
+            <FileData Type="Normal" Path="xiaomali/xml_bj.png" Plist="" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Panel_1" ActionTag="1255879200" Tag="719" IconVisible="False" LeftMargin="3.8612" RightMargin="-2.0928" TopMargin="-2.5104" BottomMargin="8.1994" TouchEnable="True" BackColorAlpha="132" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+            <Size X="1332.2316" Y="744.3110" />
+            <Children>
+              <AbstractNodeData Name="Text_1" ActionTag="579743409" Tag="721" IconVisible="False" LeftMargin="396.3685" RightMargin="413.8630" TopMargin="316.2834" BottomMargin="302.0276" FontSize="48" LabelText="            哎呀&#xA;今天忘记穿幸运内裤了..." OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="522.0000" Y="126.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="657.3685" Y="365.0276" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="191" G="191" B="191" />
+                <PrePosition X="0.4934" Y="0.4904" />
+                <PreSize X="0.3918" Y="0.1693" />
+                <FontResource Type="Normal" Path="fonts/msyhbd.ttf" Plist="" />
+                <OutlineColor A="255" R="127" G="127" B="127" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Text_2" ActionTag="1047142119" Tag="722" IconVisible="False" LeftMargin="523.7151" RightMargin="531.5165" TopMargin="529.4150" BottomMargin="188.8960" FontSize="20" LabelText="点 击 屏 幕 任意 处 继 续 游 戏" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                <Size X="277.0000" Y="26.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="662.2151" Y="201.8960" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="191" G="191" B="191" />
+                <PrePosition X="0.4971" Y="0.2713" />
+                <PreSize X="0.2079" Y="0.0349" />
+                <FontResource Type="Normal" Path="fonts/msyhbd.ttf" Plist="" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+            </Children>
+            <AnchorPoint />
+            <Position X="3.8612" Y="8.1994" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition X="0.0029" Y="0.0109" />
+            <PreSize X="0.9987" Y="0.9924" />
+            <SingleColor A="255" R="26" G="26" B="26" />
+            <FirstColor A="255" R="150" G="200" B="255" />
+            <EndColor A="255" R="255" G="255" B="255" />
+            <ColorVector ScaleY="1.0000" />
+          </AbstractNodeData>
+        </Children>
+      </ObjectData>
+    </Content>
+  </Content>
+</GameFile>

@@ -22,4 +22,4 @@ CheckboxGroup = require("util.CheckBoxGroup")
 ButtonGroup = require("util.ButtonGroup")
 PageBtns = require("util.PageBtns")
 
-
+Enum = require("modules.Common.Enum")

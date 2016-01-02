@@ -8,15 +8,21 @@ proto.c2s = sprotoparser.parse [[
 	session 1 : integer
 }
 
-#客户端配置
-register 1 {
+#登录
+register 1000 {
 	request {
 		userName	 	0:string
 		passWord     	1:string
-        email           2:string
 	}
-	response {
-		config 			0:string
+    response {
+		userName 		0:*ServerInfo
+	}
+}
+
+login 1001 {
+	request {
+		userName	 	0:string
+		passWord     	1:string
 	}
 }
 
@@ -1900,19 +1906,6 @@ getGuildDisMessage 959 {
 	buildspeed 			19:string # 联盟建筑建造/拆除/采集速率
 }
 
-#请求地图周边资源情况
-mapScope 1001 {
-	request {
-		x 		0:integer 	#中心点x y 
-		y 		1:integer
-		w 		3:integer	#宽度
-		h 		4:integer	#长度
-		serverid 	5:integer #服务器id
-	}
-	response {
-		list 		0:*map_info 	#附近资源及玩家
-	}
-}
 
 #玩家随机放置主城
 mapSettleRandom 1002 {

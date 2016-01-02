@@ -246,6 +246,7 @@ function SocketTCP:send(pack)
 	local size = #pack
 	local package = strchar(bit32.extract(size,8,8)) ..
 		strchar(bit32.extract(size,0,8))..pack
+    trace(package)
 	self.tcp:send(package)
 end
 

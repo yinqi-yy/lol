@@ -12,8 +12,8 @@ __Platform__ = cc.Application:getInstance():getTargetPlatform()
 GameServerIP = "120.33.34.198"
 GameServerPort = 9108
 
-GameServerIP = "115.28.154.121"
-GameServerPort = 9000
+GameServerIP = "120.27.100.131"
+GameServerPort = 13000
 G_Loaded = {}
 
 -- 打印 资源搜索路径

@@ -38,10 +38,12 @@ function Register:dispose()
 end
 
 function Register:onSaveClick()
-    GameTCP:sendRPC("register",{userName="",passWord="",email=""})
-    self:onCancle()
+    GameTCP:sendRPC("register",{userName="textName",passWord="123456"},self,self.onSaveRes)
 end
 
+function Register:onSaveRes(result)
+    traceObj(result)
+end
 
 function Register:onCancle()
     util.popWin()
